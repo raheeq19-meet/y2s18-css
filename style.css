@@ -1,3 +1,13 @@
-<div style="background-color:blue">
-</div>
+body {
+	background-color:blue;
+	color:white;
 
+}
+
+p.a {
+    font-family: "Times New Roman", Times, serif;
+}
+
+div.a {
+    font-size: 50px;
+}
